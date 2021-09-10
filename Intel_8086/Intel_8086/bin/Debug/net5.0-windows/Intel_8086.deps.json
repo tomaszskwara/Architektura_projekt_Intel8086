@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Intel_8086/1.0.0": {
+        "runtime": {
+          "Intel_8086.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Intel_8086/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
